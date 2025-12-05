@@ -33,6 +33,5 @@ bard = ConversableAgent(
     }
 )
 
-
 #UserProxyAgent e AssistantAgent sono classi derivate dalla superclasse ConversableAgent e quindi specializzazioni di essa.
 
